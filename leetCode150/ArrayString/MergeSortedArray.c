@@ -1,4 +1,3 @@
-
 void merge(int* nums1, int nums1Size, int m, int* nums2, int nums2Size, int n) {
     if(n == 0) return;
     while(--nums1Size >= 0){
